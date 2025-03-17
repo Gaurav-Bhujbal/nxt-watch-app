@@ -1,4 +1,4 @@
-# Nxt Watch🎥
+# Nxt Watch 🎥
 
 *Nxt Watch is an engaging YouTube alternative that offers a seamless video-watching experience with user authentication, customizable themes, and interactive browsing.*
 
